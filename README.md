@@ -1,2 +1,2 @@
-# Name and ID:
+# Name:
 SaiNadh
